@@ -27,7 +27,7 @@ Online Store API built with Laravel 12 for Fullstack Engineer Assessment.
 Clone repository:
 
 ```bash
-git clone https://github.com/your-username/online-store-api.git
+git clone https://github.com/NURIDWAN/online-store-api.git
 cd online-store-api
 ```
 
